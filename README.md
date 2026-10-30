@@ -294,6 +294,7 @@
 - [Flotato](https://flotato.com/) - Use any web site as a beautiful Mac app.
 - [Fluid](http://fluidapp.com/) - Turn web applications into Mac applications.
 - [gfxCardStatus](https://gfx.io/) - Menu bar app to monitor and switch between integrated and discrete GPUs on MacBook Pro. [![Open-Source Software][OSS Icon]](https://github.com/codykrieger/gfxCardStatus) ![Freeware][Freeware Icon]
+- [Glass](https://glassdesk.dev) - Remote desktop for Mac and Linux that you control from any browser, with nothing to install on the viewing device. [![Open-Source Software][OSS Icon]](https://github.com/Ntarasiuk/glass) ![Freeware][Freeware Icon]
 - [Gray](https://github.com/zenangst/Gray) - Pick between the light appearance and the dark appearance on a per-app basis with the click of a button. [![Open-Source Software][OSS Icon]](https://github.com/zenangst/Gray) ![Freeware][Freeware Icon]
 - [Harbor](https://github.com/thsnkhn/harbor) - Download manager for direct downloads, magnet links, and `.torrent` files. [![Open-Source Software][OSS Icon]](https://github.com/thsnkhn/harbor) ![Freeware][Freeware Icon]
 - [Helium](https://github.com/JadenGeller/Helium) - A floating browser window that allows you to watch media while you work. [![Open-Source Software][OSS Icon]](https://github.com/JadenGeller/Helium) ![Freeware][Freeware Icon]
